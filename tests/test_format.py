@@ -45,6 +45,7 @@ SIMPLE_CASES = [
     "long_strings",
     "long_strings__edge_case",
     "long_strings__regression",
+    "multiline_strings",
     "numeric_literals_py2",
     "percent_precedence",
     "python2",
